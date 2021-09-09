@@ -8,7 +8,7 @@ Move your mouse and the eyes start to following you.
 You don't need anymore than a browser, I will recomend you use Chome to have the best experience.
 
 ## Description
-The onmousemove event occurs when the pointer is moving while it is over an element.
+The `onmousemove` event occurs when the pointer is moving while it is over an element.
 
 Other property that I worked was `.transform`, this property allows you to rotate, scale, move, skew elements.
 
