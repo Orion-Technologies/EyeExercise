@@ -15,5 +15,4 @@ document.onmousemove = (event) => {
     balls2[0].transform = 'translate(-' + x + ',-' + y + ')';
   }
   
-
 };
